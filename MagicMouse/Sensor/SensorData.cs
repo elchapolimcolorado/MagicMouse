@@ -1,6 +1,6 @@
 ﻿namespace MagicMouse.Sensor
 {
-    class SensorData
+    public class SensorData
     {
         public double Ax { get; set; }
         public double Ay { get; set; }

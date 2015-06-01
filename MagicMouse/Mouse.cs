@@ -6,7 +6,7 @@ namespace MagicMouse
 {
     static class Mouse
     {
-        private static double speed = 0.1;
+        private static double speed = 0.05;
 
         public static double Speed
         {
